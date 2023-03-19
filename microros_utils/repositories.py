@@ -123,6 +123,7 @@ class Sources:
             Repository("rmw_implementation", "https://github.com/ros2/rmw_implementation", "humble"),
             Repository("rcl_logging", "https://github.com/ros2/rcl_logging", "humble"),
             Repository("ros2_tracing", "https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing", "humble"),
+            Repository("geometry2", "https://github.com/ros2/geometry2", "humble"),
         ],
         'galactic': [
             Repository("micro-CDR", "https://github.com/eProsima/micro-CDR", "galactic", "ros2"),
